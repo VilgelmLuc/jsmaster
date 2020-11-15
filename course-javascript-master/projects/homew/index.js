@@ -14,6 +14,7 @@
  */
 function returnFirstArgument(value) {
   return value;
+  console.log(value)
   // return arguments[0];
 }
 
